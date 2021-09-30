@@ -2,7 +2,7 @@
 
 This small project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-It uses a third-party API from Github where you can search a specific user and check out their the profile. 
+It uses a third-party API from Github where you can search a specific user and check out their profile. 
 
 Deployed on Netlify: https://githubuserfinder928.netlify.app/
 
